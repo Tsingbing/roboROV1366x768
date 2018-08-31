@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>images/background.png</file>
+        <file>Page3.qml</file>
+        <file>Page3Form.ui.qml</file>
+        <file>images/background3.jpg</file>
+        <file>images/wifiRssi0.png</file>
+        <file>images/wifiRssi1.png</file>
+        <file>images/wifiRssi2.png</file>
+        <file>images/wifiRssi3.png</file>
+        <file>images/wifiRssi4.png</file>
+        <file>images/wifiRssi5.png</file>
+        <file>images/stop.png</file>
+        <file>images/recoding.png</file>
+        <file>images/record.png</file>
+        <file>images/rec闪烁圆点.png</file>
+        <file>images/save0.png</file>
+        <file>images/save1.png</file>
+        <file>images/WireNet1.png</file>
+        <file>images/pin.png</file>
+        <file>images/capture1.png</file>
+        <file>images/capture0.png</file>
+        <file>Page2.qml</file>
+    </qresource>
+</RCC>
